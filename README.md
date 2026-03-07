@@ -7,6 +7,7 @@
 ## 学习日志
 
 -[2026-03-06 Github Pages 的初建 和 python 中匿名函数](logs/2026-03-06-learning.md)
+-[2026-03-07 python 中装饰器（decorator）的使用](logs/2026-03-07 py-decorator learning.md)
 
 ---
 
