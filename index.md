@@ -1,4 +1,7 @@
-# 首页
+---
+layout: home
+title: 首页
+---
 
 这是我的 GitHub Pages，用来展示我在学习 GitHub、工程实践和 AI 应用开发过程中的成长记录。
 
