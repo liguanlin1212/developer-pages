@@ -21,7 +21,8 @@ title: 首页
 
 ## 项目
 
--骁龙 汇息 （开发中）
+### 骁龙 汇息 （开发中）
+网址：https://github.com/liguanlin1212/xiaolong-huixi-project
 
 ---
 
