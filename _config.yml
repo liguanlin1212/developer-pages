@@ -1,2 +1,10 @@
 title: 李冠霖的工程成长记录
 theme: minima
+
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+
+markdown: kramdown
+highlighter: rouge
