@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: "python 偏函数 与 本地部署 DeepSeek 7b"
+title: "python 偏函数 与 本地部署 DeepSeek 7b"
 date: 2026-03-09
 ---
 
